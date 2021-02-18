@@ -56,3 +56,18 @@ tr:nth-child(even){
 
 
 }
+ul{
+background-color: red;
+width :250px
+
+}
+li{
+        display: inline;
+        padding: 5px;
+}
+.glyphicon{
+    margin-right: 2px;
+}
+img{
+    padding-left: 100px;
+}
